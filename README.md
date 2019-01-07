@@ -1,17 +1,12 @@
-# _{JS WebPack Project Builder}_
+# _JS WebPack Journal Entry_
 
-#### _{A base file structure used for JS Webpack applications.}, {1/7/2019}_
+#### _A small application that returns word and character counts after entering a journal entry, {1/7/2019}_
 
-#### By _**{Alex Williams, James Cho}**_
+#### By _**Alex Williams, James Cho**_
 
 ## Description
 
-_{This is a base file structure for JS WebPack related Projects. Clone to speed up initial JS Project Starts.}_
-
-## Setup/Installation Requirements
-
-* Clone from repository
-* Type "npm run build" in the terminal of root directory.
+_A very minimal website that allows the user to input journal entries and submit them to see the total word, vowl, and consonant count of the entry.._
 
 ### License
 
